@@ -11,6 +11,9 @@ ASS 8:https://github.com/Ashok-nimmala/AIML-2303A52473/blob/main/ASS-8.ipynb
 ASS 9:https://github.com/Ashok-nimmala/AIML-2303A52473/blob/main/ASS_9.ipynb
 ASS 10:https://github.com/Ashok-nimmala/AIML-2303A52473/blob/main/ASS-10.ipynb
 
+CLASSIFICATIONS : https://github.com/Ashok-nimmala/AIML-2303A52473/blob/main/AIML%20-%20PRACTISE.ipynb
+
+
 
 
 
